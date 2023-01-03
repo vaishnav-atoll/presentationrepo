@@ -1,1 +1,2 @@
 second branch file1 text
+conflict text
