@@ -1,2 +1,3 @@
 Fetch File 2 text
 changes from local machine
+changes from remote
