@@ -1,1 +1,2 @@
 First file text
+merge conflict content to be appended
